@@ -6,6 +6,6 @@
 
 # Create a branch develop
 
-# Push the develop branch to the remote repository
+Push the develop branch to the remote repository
 
 # Initialize Git Flow within the repository using default settings i.e git-flow init [-d]
